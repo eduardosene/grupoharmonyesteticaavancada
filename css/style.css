@@ -1,0 +1,161 @@
+
+#mainNav {
+    padding-top:0;
+    padding-bottom: 0;
+    background-color:#FEF9F3;
+
+  }
+.custom-logo{
+    height: 90px;
+    float: left;
+}
+.navbar-brand-titulo{
+    color: #AE7D10;
+    font-size: 2.3rem;
+    font-family: Serif;
+    text-shadow: 2px 2px 5px #a0a0a0;
+    width: 400px;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+    
+}
+.navbar-brand-subtitulo{
+    font-size: 1.5rem;
+    width:auto ;
+    text-align: center;
+
+}
+
+.navbar-custom{
+    font-size: 16pt;
+}
+.navbar-color-font{
+    color: #ae7d10 !important;
+}
+a:hover {
+    color: #4d3709 !important;
+}
+
+.nav-icon{
+    position: absolute;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 80em;
+    
+}
+.sombra{
+    box-shadow: 2px 2px 5px #a0a0a0;
+    border-radius: 28%;
+}
+
+.posicao-header{
+    margin-top: 100px;
+   
+} 
+.carousel-item {
+        height: 80vh; 
+        min-height: 350px; 
+        background: no-repeat center center scroll;
+        background-size: cover;
+    }
+
+.titulo{
+    padding: 50px;
+    color:#ae7d10 ;
+    text-shadow: 2px 2px 5px #a0a0a0;
+}
+.sub-titulo{
+    padding: 25px;
+    color:#ae7d10 ;
+    text-shadow: 2px 2px 5px #a0a0a0;
+}
+
+.custom-nossos-procedimentos{
+    padding-bottom:15px !important;
+}
+
+.btn-whatsapp-sobre{
+    text-align: center;
+}
+.team-member {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.team-member img {
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid #d6c1a6;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto !important;
+}
+.rounded-circle {
+    border-radius: 50% !important;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.btn-social {
+    height: 2.5rem;
+    width: 2.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border-radius: 100%;
+}
+.btn-dark{
+    background-color: #AE7D10 !important;
+    border-color: #AE7D10 !important;
+}
+.btn-dark:hover {
+    color: #fff !important;
+    background-color: #daac49 !important;
+    border-color: #daac49 !important;
+}
+
+
+.custom-logo-contato{
+    background-color: #AE7D10 !important;
+    border-color: #AE7D10 !important;
+    color: #FCF8EF !important;
+    height: 5rem;
+    width:  5rem;
+    text-align: center!important;
+    display: block !important;
+    margin: auto auto 15px auto !important;
+}
+.fa-3x{  
+    padding-top: 19%;  /*Centralizar o icon*/
+}
+.custom-contato{
+    font-size: 16pt;
+    padding-top: 15px;
+    list-style-type:none;
+    margin: 0 auto 0 auto;
+    padding: 0;
+}
+
+.custom-contato-color{
+    color: #212529 !important;
+    
+}
+p.custom-contato{
+    width: 80%;
+    text-align: center;
+}
+
+.copyright {
+    padding: 20px 0px 0px 0px;
+    margin: auto;
+}
+p.copyright-p {
+    display: block;
+    margin: 0;
+}
